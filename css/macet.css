@@ -271,7 +271,6 @@ a {
 }
 
 .list-characteristics .item {
-  width: 270px;
   flex-basis: ((100% - 90px) / 4);
 }
 
